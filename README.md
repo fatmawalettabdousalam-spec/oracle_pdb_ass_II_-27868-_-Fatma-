@@ -10,17 +10,21 @@ Once the PDB was created, it was transitioned from Mounted to Open mode. A user,
 
 <img width="989" height="351" alt="Screenshot 2026-02-14 152935" src="https://github.com/user-attachments/assets/3d2769e9-b194-45ac-b5a1-9b6b078857d9" />
 
+
 PDB open state:
 
 <img width="579" height="162" alt="Screenshot 2026-02-14 140630" src="https://github.com/user-attachments/assets/d44493a7-dfe7-4d36-9881-4bc30fec46d2" />
 
-User created inside the PDB
+
+User created inside the PDB:
 
 <img width="805" height="141" alt="Screenshot 2026-02-14 141131" src="https://github.com/user-attachments/assets/5363df3b-0049-408e-9f92-55e0f387585d" />
+
 
 Task 2: Temporary PDB Lifecycle
 
 This task involved creating and deleting a test PDB to demonstrate database management.
+
 
 PDB creation:
 
