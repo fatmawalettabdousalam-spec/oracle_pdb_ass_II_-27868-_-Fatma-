@@ -48,6 +48,10 @@ This task involved using the Oracle Enterprise Manager (OEM) Express web interfa
 
 
 
+I confirm that this assignment is my own individual work. I have executed all commands myself and captured my own screenshots. I have not copied from classmates or used external tools to generate these solutions.
+
+
+
 
 
 
