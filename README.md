@@ -51,7 +51,13 @@ This task involved using the Oracle Enterprise Manager (OEM) Express web interfa
 I confirm that this assignment is my own individual work. I have executed all commands myself and captured my own screenshots. I have not copied from classmates or used external tools to generate these solutions.
 
 
-
-
+### Final Checklist
+- [x] Correct PDB names used
+- [x] User created inside the PDB
+- [x] Temporary PDB created and deleted
+- [x] OEM dashboard screenshot included
+- [x] GitHub repository is PUBLIC
+- [x] README is clear and professional
+- [x] Deadline respected
 
 
